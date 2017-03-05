@@ -65,7 +65,7 @@
 <configuration>
  
 <suiteXmlFiles>
-<suiteXmlFile></suiteXmlFile>
+<suiteXmlFile>RegTest.xml</suiteXmlFile>
 </suiteXmlFiles>
  
 </configuration>
